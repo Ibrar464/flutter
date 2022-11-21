@@ -34,11 +34,11 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   int number = 2;
-  int o1 = 0;
-  int o2 = 0;
   int answer = 0;
+  int o1 = 0;
   int count = 0;
   bool test = false;
+  int o2 = 0;
   Random random = Random();
 
   void randomNumber() {
