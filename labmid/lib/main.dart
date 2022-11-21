@@ -33,13 +33,14 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  bool test = false;
   int number = 2;
-  int count = 0;
-  int answer = 0;
   int o1 = 0;
   int o2 = 0;
+  int answer = 0;
+  int count = 0;
+  bool test = false;
   Random random = Random();
+
   void randomNumber() {
     setState(() {
       count = random.nextInt(9) + 1;
