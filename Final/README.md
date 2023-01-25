@@ -1,16 +1,9 @@
-# middddd
+# table quiz app
 
-A new Flutter project.
+# Screen Shots:
+![Screenshot_20230121-144315](https://user-images.githubusercontent.com/101083704/214608021-da9eddf8-aa47-4643-b2f7-477e88d46887.jpg)
+![Screenshot_20230125-203759](https://user-images.githubusercontent.com/101083704/214608074-ecd265c3-53a1-4de7-8a18-f55042691515.jpg)
+![Screenshot_20230121-144703](https://user-images.githubusercontent.com/101083704/214608125-9aeac771-96b9-4a62-9ac0-6dc8f85a6c8e.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230121-144936](https://user-images.githubusercontent.com/101083704/214608163-f55a22dc-8c10-46e0-88cd-3169135789c4.jpg)
+![Screenshot_20230121-145303](https://user-images.githubusercontent.com/101083704/214608202-6f53292f-d876-46a5-a933-bdb453e19e4d.jpg)
